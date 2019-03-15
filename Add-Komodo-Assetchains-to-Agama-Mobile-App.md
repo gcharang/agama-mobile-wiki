@@ -1,4 +1,4 @@
-# Easy steps to add Komodo asset chain to Agama Desktop
+# Easy steps to add Komodo asset chain to Agama Mobile
 
 The Agama mobile code comprises of two parts. Agama wallet library and MeteorJS app. This assetchain adding guide will cover both. All the files needs changing are linked. If you want to add Bitcoin compatible coins follow [this guide](https://github.com/KomodoPlatform/agama-mobile/wiki/Add-a-Bitcoin-Compatible-coin-to-Agama-Mobile).
 
