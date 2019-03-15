@@ -13,4 +13,4 @@ The Agama mobile code comprises of two parts. Agama wallet library and MeteorJS 
 - Add ERC20 token name to translation file [`https://github.com/KomodoPlatform/agama-mobile/blob/dev/imports/ui/translate/en.js#L475`](https://github.com/KomodoPlatform/agama-mobile/blob/dev/imports/ui/translate/en.js#L475).
 - Submit a PR, use dev branch!
 
-Please make sure ERC20 token is working in Agama mobile before making a commit. Pull requests containing partial information or not working assets will remain unmerged until all requirements are fulfilled.
+Please make sure an ERC20 token is working in Agama mobile before making a PR. Pull requests containing partial information or not working assets will remain unmerged until all requirements are fulfilled.
