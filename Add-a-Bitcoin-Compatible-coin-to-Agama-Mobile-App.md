@@ -1,6 +1,6 @@
 # Easy steps to add a Bitcoin compatible coin to Agama Mobile
 
-The Agama mobile code comprises of two parts. Agama wallet library and MeteorJS app. This assetchain adding guide will cover both. All the files needs changing are linked. If you want to add a Komodo asset chain follow [this guide](https://github.com/KomodoPlatform/agama-mobile/wiki/Add-Komodo-Assetchains-to-Agama-Mobile-App).
+The Agama mobile code comprises of two parts. Agama wallet library and MeteorJS app. This Bitcoin compatible adding guide will cover both. All the files needs changing are linked. If you want to add a Komodo asset chain follow [this guide](https://github.com/KomodoPlatform/agama-mobile/wiki/Add-Komodo-Assetchains-to-Agama-Mobile-App).
 
 ### Agama wallet library
 - Add network params [`https://github.com/pbca26/agama-wallet-lib/blob/dev/src/bitcoinjs-networks.js`](https://github.com/pbca26/agama-wallet-lib/blob/dev/src/bitcoinjs-networks.js). Make use of isPoS or isZcash flags if applicable in your case.
@@ -30,4 +30,4 @@ In case if SECRET_KEY consists of two decimal numbers (e.g. 63 + 128) sum them u
 
 If you can't find chainparams.cpp in your code base try checking one of these files https://docs.komodoplatform.com/barterDEX/get-listed-barterDEX.html#search-for-the-information-on-github.
 
-Please make sure bitcoin compatible coin is working in Agama mobile before making a commit. Pull requests containing partial information or not working assets/servers will remain unmerged until all requirements are fulfilled.
+Please make sure Bitcoin compatible coin is working in Agama mobile before making a commit. Pull requests containing partial information or not working assets/servers will remain unmerged until all requirements are fulfilled.
