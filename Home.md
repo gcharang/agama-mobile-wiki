@@ -1,4 +1,4 @@
-Welcome to the agama-mobile wiki!
+Welcome to the Agama Mobile wiki!
 
 - [How to add Asset Chains to Agama Mobile?](https://github.com/KomodoPlatform/agama-mobile/wiki/Add-Komodo-Assetchains-to-Agama-Mobile-App)
 - [How to add Bitcoin compatible coin (SPV) to Agama Mobile?](https://github.com/KomodoPlatform/agama-mobile/wiki/Add-a-Bitcoin-Compatible-coin-to-Agama-Mobile-App)
