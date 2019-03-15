@@ -16,4 +16,4 @@ The Agama mobile code comprises of two parts. Agama wallet library and MeteorJS 
 - Add asset chain name to translation file [`https://github.com/KomodoPlatform/agama-mobile/blob/dev/imports/ui/translate/en.js#L344`](https://github.com/KomodoPlatform/agama-mobile/blob/dev/imports/ui/translate/en.js#L344).
 - Submit a PR, use dev branch!
 
-Please make sure an asset chain is working in Agama mobile before making a commit. Pull requests containing partial information or not working assets/servers will remain unmerged until all requirements are fulfilled.
+Please make sure an asset chain is working in Agama mobile before making a PR. Pull requests containing partial information or not working assets/servers will remain unmerged until all requirements are fulfilled.
